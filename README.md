@@ -11,6 +11,9 @@
 
 This repository contains a Jupyter notebook that systematically identifies semantic blind spots in Cosmo's exact-match retrieval engine by applying TF-IDF vectorization, Latent Semantic Analysis (LSA), and cosine similarity.
 
+**[🌌 Meet Cosmo →](https://[cosmo-the-chatbot.web.app/cosmo.html])** – Live conversational interface  
+**[📖 Learn more about Cosmo →](./cosmo-background.md)**
+
 Cosmo is an intentionally imperfect, handcrafted conversational interface built to explore the balance between transparency and capability in AI. However, users ask the same question in many different ways, and Cosmo's exact-match engine often fails to recognize semantically equivalent queries. This analysis quantifies that gap and demonstrates how LSA can dramatically improve retrieval accuracy.
 
 ---
@@ -41,9 +44,10 @@ Cosmo is an intentionally imperfect, handcrafted conversational interface built 
 ## 📁 Repository Structure
 
 ```
-├── cosmo_semantic_audit.ipynb   # Main Jupyter notebook
-├── cosmo_audit_technical_report.pdf          # Full technical report                     
-└── README.md 
+├── cosmo_semantic_audit.ipynb # Main Jupyter notebook
+├── cosmo_audit_technical_report.pdf # Full technical report
+├── cosmo-background.md # Background on Cosmo
+└── README.md
 ```
 
 ---
