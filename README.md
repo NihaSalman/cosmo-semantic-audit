@@ -116,7 +116,7 @@ This project is part of my portfolio. While I'm not actively seeking contributio
 
 Niha Salman  
 Email: niha.salman@gmail.com  
-LinkedIn: [linkedin.com/in/niha-salman-b304a912b](https://linkedin.com/in/niha-salman-b304a912b)
+LinkedIn: [Niha Salman](https://linkedin.com/in/niha-salman-萨倪涵-b304a912b)
 
 ---
 
